@@ -586,17 +586,3 @@ This is a cryptocurrency miner for Nvidia GPUs
                       GPU#0 1100
                       GPU#1 1200
                       GPU#2 1100
-
-      --no-watchdog
-          Disables miner watchdog
-
-  -h, --help
-          Print help information (use `-h` for a summary)
-
-  -V, --version
-          Print version information
-```
-
-## Support
-Discord: https://discord.gg/zKTgcGgc6k  
-BitcoinTalk: https://bitcointalk.org/index.php?topic=5424675.0
