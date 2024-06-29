@@ -1,0 +1,2 @@
+# rigel
+Nvidia GPU miner
